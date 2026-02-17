@@ -4,7 +4,7 @@ docs_dir: docs
 site_dir: site
 
 markdown_extensions:
-  - admonition
+  - admonition 
   - toc:
       permalink: true
     
