@@ -7,13 +7,11 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
-      
-
+    
 plugins:
   - search
   - pdf-export:
       verbose: true
-
 
 nav:
   - Getting Started: index.md
