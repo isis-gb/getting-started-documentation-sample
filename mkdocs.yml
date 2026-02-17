@@ -11,6 +11,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - pdf-export:
+      verbose: true
+      enabled_if_env: true
 
 
 nav:
